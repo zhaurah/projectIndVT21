@@ -9,7 +9,7 @@ def runtestcode(l):
 runtestcode([5, 3, 2, 4, 1, 7, 9])
 input()
 os.system('cls' if os.name == 'nt' else 'clear')
-runtestcode([5,6,42,00000lajgfi])
+runtestcode([5,6,42,11])
 input()fda
 
 os.system('cls' if os.name == 'nt' else 'clear')
